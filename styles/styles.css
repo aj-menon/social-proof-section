@@ -48,7 +48,7 @@ body {
 .main-wrapper:before {
 	top: 0;
 	left: 0;
-	z-index: -1;
+
 	background: url(../images/bg-pattern-top-mobile.svg) no-repeat top left;
 }
 
