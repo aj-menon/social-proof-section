@@ -46,8 +46,8 @@ body {
 	z-index: -1;
 }
 .main-wrapper:before {
-	top: 0;
-	left: 0;
+	/* top: 0;
+	left: 0; */
 
 	transform: translate(0, -80%);
 	background: url(../images/bg-pattern-top-mobile.svg) no-repeat bottom right;
