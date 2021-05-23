@@ -171,9 +171,9 @@ p.review {
 }
 
 .rating-title {
-	margin: 0;
+	margin: 5px;
 	text-align: left;
-	margin-inline-start: 1rem;
+/* 	margin-inline-start: 1rem; */
 	font-size: 0.875rem;
 }
 
